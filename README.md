@@ -1,4 +1,4 @@
-# 🏧 Caixa Eletrônico
+# Caixa Eletrônico
 
 Simulador de Caixa Eletrônico desenvolvido em **Python**, executado via
 terminal, que permite realizar operações bancárias como consulta de
@@ -10,7 +10,7 @@ de código em módulos e manipulação de arquivos.
 
 ------------------------------------------------------------------------
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 -   Praticar estrutura de menus interativos
 -   Aplicar organização modular em Python
@@ -19,18 +19,18 @@ de código em módulos e manipulação de arquivos.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
--   💰 Consultar saldo
--   ➕ Realizar depósito
--   ➖ Realizar saque
--   📜 Visualizar histórico de transações
--   📄 Armazenamento de dados em JSON
--   🖥️ Interface interativa via terminal
+-    Consultar saldo
+-    Realizar depósito
+-    Realizar saque
+-    Visualizar histórico de transações
+-    Armazenamento de dados em JSON
+-    Interface interativa via terminal
 
 ------------------------------------------------------------------------
 
-## 🧠 Estrutura do Projeto
+## Estrutura do Projeto
 
     Caixa-eletr-nico/
     ├── funções/
@@ -44,7 +44,7 @@ de código em módulos e manipulação de arquivos.
 
 ------------------------------------------------------------------------
 
-## ▶️ Como Executar
+## Como Executar
 
 ``` bash
 git clone https://github.com/Calebe-josue/Caixa-eletr-nico.git
@@ -56,7 +56,7 @@ python main.py
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 -   Python 3
 -   JSON
@@ -64,7 +64,7 @@ python main.py
 
 ------------------------------------------------------------------------
 
-## 📌 Regras Implementadas
+## Regras Implementadas
 
 -   Não permite saque maior que o saldo disponível
 -   Atualiza saldo automaticamente após operações
@@ -73,6 +73,6 @@ python main.py
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Calebe Josué**
