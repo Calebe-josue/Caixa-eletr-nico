@@ -34,12 +34,12 @@ de código em módulos e manipulação de arquivos.
 
     Caixa-eletr-nico/
     ├── funções/
-    │   ├── conta.py              # Regras da conta (saldo, saque, depósito, histórico)
-    │   ├── dados.py              # Leitura e escrita no arquivo JSON
+    │   ├── controller.py         # Regras da conta (saldo, saque, depósito, histórico)
+    │   ├── model.py              # Leitura e escrita no arquivo JSON
     │   └── menu.py               # Interface e exibição do menu
     ├── .gitignore
     ├── dados_dos_clientes.json   # Persistência dos dados
-    ├── main.py                   # Arquivo principal (inicialização do sistema)
+    ├── view.py                   # Arquivo principal (inicialização do sistema)
     └── README.md
 
 ------------------------------------------------------------------------
