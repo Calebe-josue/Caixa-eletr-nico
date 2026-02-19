@@ -1,5 +1,5 @@
 import json
-from funções.conta import*
+from funções.controller import*
 
 
 def arquivo_existe(nome):

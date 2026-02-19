@@ -1,7 +1,7 @@
-from funções.conta import*
+from funções.controller import*
 from funções.menu import*
 from time import sleep
-from funções.dados import*
+from funções.model import*
 
 arquivo = "dados_dos_clientes.json"
 pessoa1= Conta('Calebe',1200)

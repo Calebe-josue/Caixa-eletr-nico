@@ -1,4 +1,4 @@
-from funções.dados import*
+from funções.model import*
 from time import sleep
 
 
